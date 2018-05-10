@@ -1,0 +1,5 @@
+name: ClockRPGOPMenu
+version: ${project.version}
+main: clockrpg.jpn.ph.ClockOPMenu
+commands:
+  opmenu:
